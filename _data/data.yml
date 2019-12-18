@@ -1,0 +1,260 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+  resume: True
+
+  # Profile information
+  name: Rodrigo Bresan
+  tagline: Software Developer and<br/>Data Science Enthusiast
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: me@rodrigobresan.com
+  linkedin: bresan
+  github: bresan
+  gitlab:
+  bitbucket:
+  #    medium: medium.com/@bresan
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+
+  #    languages:
+  #      - idiom: Portuguese
+  #        level: Native
+  #
+  #      - idiom: English
+  #        level: Professional
+  #
+  #      - idiom: Italian
+  #        level: Intermediate
+  ##
+  #      - idiom: Spanish
+  #        level: Intermediate
+
+  interests:
+
+    - item: Software Engineering
+      link:
+
+    - item: Systems Design
+      link:
+
+    - item: Biometrics
+      link:
+
+    - item: Computer Vision
+      link:
+
+    - item: Deep Learning
+      link:
+
+
+career-profile:
+  title: About Me
+  summary: |
+
+    Hey there,
+
+     My name is Rodrigo, and I currently work as a Software Developer and Data Science researcher at Federal Institute of São Paulo. My major interests are related
+     to Software Engineering and Development, but I am also interested on Data Science and Visualization. My current duties at Federal Institute of São Paulo are related to
+     building solutions in the areas of decision making policies in healthcare by using Machine Learning techniques. I also do work with Biometrics and Deep Learning on my spare time.
+
+     My current tech stack is composed mostly of data science tools, being mostly Python, Scikit-Learn, Keras and Plotting libraries (plotly, d3js, matplot), but I do also
+     work heavily on software development with Django and Flask. When needed, I also support my team with some DevOps role, mostly by building Continuous Integration and
+     Deployment pipelines (with Jenkins and Docker).
+
+     In the past I have worked with other technologies, such as mobile development (Android, iOS and React Native), as well as integrating embedded devices with Biometric solutions, such as
+     Presentation Attack Detection (Anti-Spoofing) and Gait Analysis.
+
+     I am always trying to learn new things, and I do believe that the best way to (effectively) learn something is by teaching others about it. This can be intended as the major
+     purpose of this blog.
+
+     My major focus when working is to build reliable solutions, with major focus on testability, flexibility and ease to understand. If you share the same philosophy as me, feel free to call me for a quick chat.
+
+education:
+  - degree: Data Science and Artificial Intelligence
+    university: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a>
+    time: 2018 - 2018
+    details: Extension course taught by <a href="https://scholar.google.com.br/citations?user=5nhvZXYAAAAJ&hl=pt-BR">PhD Tiago Carvalho</a> and <a href="https://www.escavador.com/sobre/9805100/ricardo-sovat">PhD Ricardo Sovat</a> on subjects related
+      to Data Science introduction, such as building Machine Learning pipelines with Pandas, Numpy and Scikit-Learn for both supervised (Random Forests, XGBoost, SVM) and unsupervised learning (KNN, K-Means). Introduction to building Artificial Neural Networks and Deep Neural Networks with Keras and TensorFlow frameworks.
+
+  - degree: Technologic in System Analysis and Development
+    university: <a href="https://cmp.ifsp.edu.br/">Federal Institute of São Paulo</a>
+    time: 2015 - 2019
+    details: Major course on software development with popular languages (Python, Java, C++), with a major focus on software engineering (design patterns, architecture, testing, deployment), Project Mangement (Agile methodologies, Scrum) and Data Science (introductory models, SVM, clustering and Neural Networks).
+
+  - degree: Technician in Informatics (previously called Data Processing)
+    university: <a href="http://cotuca.unicamp.br/cotuca/">Technical College of Unicamp</a>
+    time: 2011 - 2014
+    details: Software Development course with major focus on programming languages (Java, C, C++ and C#), relational databases (MySQL and SQL Server) and Web Development (HTML, CSS and Javascript).
+
+experiences:
+  - role: Software Developer and Data Science Researcher
+    time: Jan 2018 - Current
+    company: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a> and <a href="https://www.nepo.unicamp.br/" target="_blank">UNICAMP (NEPO)</a>, São Paulo (Brazil)
+    intro: |
+      Project sponsored by the Bill & Melinda Gates Foundation, along with the Brazilian Ministry of Health, the National Council for Scientific and Technological Development (CNPQ) and the São Paulo Research Foundation (FAPESP).
+
+      Building decision making solutions using Data Science and Machine Learning techniques for Healthcare
+      related projects and biometrics. Major exposure on building web-based platforms along with pipelines for
+      Continous Integration and Deployment.
+
+      - Cleansing and feature engineering on healthcare data using Pandas and Apache Spark.
+      - Training and Finetuning of ML models with Scikit-Learn and Keras.
+      - Adoption of ensembling methods (baggging and stacking).
+      - Implementation of novel Neural Networks architectures with Keras.
+      - Deployment of ML models to prevent Face Spoofing on mobile applications.
+      - Collaboration with <a href="https://www.unicamp.br/unicamp/english" target="_blank">UNICAMP (RECOD)</a> on Biometric Gait Analysis on mobile devices;
+      - Usage of Computer Vision libraries such as OpenCV and DLib;
+      - Interactive Data Visualization with D3JS and Plotly.
+      - Setup of CI and CD pipelines with Jenkins and Docker.
+      - Deployment of web applications using Django and Flask.
+      - Adoption of TDD for several projects, improving maintanability.
+
+  - role: Android Developer
+    time: May 2016 - Dec 2017
+    company: <a href="https://cleevio.com/home">Cleevio</a>, Prague (Czech Republic)
+    intro: |
+      Working primarily with European based clients on B2C projects on building mobile based applications with Android SDK. Major exposure
+      to Java and Kotlin, along with adoption of TDD techniques and CI/CD pipelines.
+
+      - Development of Android applications using Java and Kotlin;
+      - End-to-end deployment, from initial concepts up to release on Play Store;
+      - Implementation of TDD (unit and instrumentation tests) with JUnit, Mockito and Espresso;
+      - CI/CD setup with GitLab CI, HockeyApp and Play Store.
+      - Integration with 3rd party payment services and IAP with Google Play;
+
+  - role: Software Developer
+    time: Jun 2015 - May 2016
+    company: Undisclosed Company
+    intro: |
+      Working in the development of mobile and web based applications to provide real-time data and insights about
+      delivery trucks all over Brazilian territory. Major exposure to Android SDK, Location Services and Firebase SDK.
+
+      Minor works on scraping and analysis of Open Government Data provided by Brazilian transparency portals by using
+      Optical Character Recognition and Tabula, as well as deployment of REST based applications to allow their consumption.
+
+
+  - role: Android Developer
+    time: Jan 2014 - Jun 2015
+    company: <a href="https://movile.com/">Movile</a>, São Paulo (Brazil)
+    intro: |
+      Working closely to Brazilian carriers in the development of Android applications, with over 4 million users.
+
+      - Android SDK and Firebase, along with code reuse by using flavors and build types.
+      - Deployment on HockeyApp and Google Play by using Jenkins CI.
+
+projects:
+  title: Projects
+  intro: >
+
+  assignments:
+
+    - title: Vivo +Apps
+      link: "https://play.google.com/store/apps/details?id=com.movile.android.appsvivo"
+      tagline: "App Marketplace for Brazilian telephony carrier (Vivo). Over 5 million unique installs."
+
+    - title: AnkiDroid
+      link: "https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=pt_BR"
+      tagline: "A semi-official port of the open source Anki spaced repetition flashcard system to Android"
+
+    - title: Bringr
+      link: "https://vimeo.com/187623068"
+      tagline: "Uber-similar application to allow users to send and receive packages all over Europe"
+
+    - title: Saúde a Qualquer Hora
+      link: "https://play.google.com/store/apps/details?id=br.com.saudeaqualquerhora"
+      tagline: "Health-related app where users can communicate with doctors directly using Firebase as backend."
+
+    - title: News Luciana Gimenez
+      link: ""
+      tagline: "Magazine like app for Brazilian actress Luciana Gimenez"
+
+    - title: MinutoMobi (TIM)
+      link: ""
+      tagline: "Newsreader for Brazilian carrier (TIM) consuming articles from Reuters API"
+
+    - title: Gait RECOD
+      link: ""
+      tagline: "Biometric app to identify a given user by it's gait activity"
+
+    - title: TMDB Clean Architecture
+      link: "https://github.com/bresan/android_tmdb_clean_architecture"
+      tagline: "Showcase project using several Android libraries with Clean Architecture concepts"
+
+    - title: GitHub MVVM
+      link: "https://github.com/bresan/GitHubMVVM"
+      tagline: "Simple project to showcase the usage of GitHub API with a MVVM (Model View ViewModel) Architecture"
+
+    - title: Brejei
+      link: "https://play.google.com/store/apps/details?id=br.com.bresan.brejei&hl=pt_BR"
+      tagline: "Personal project to display pubs around you, as well as show beer brands"
+
+    - title: Nasa APOD (RN)
+      link: "https://github.com/bresan/react_native_apod"
+      tagline: "Small React Native to display a list of astronomical pictures from the NASA Astronomy Picture of the Day API"
+
+    - title: SpooPy
+      link: "https://github.com/bresan/spoopy"
+      tagline: "Project focused on the Analysis of Presentation Attack Detection for Facial Biometrics"
+
+    - title: LDA Analysis
+      link: "https://github.com/bresan/lda_analysis"
+      tagline: "Small project for analysing articles from digital libraries (ACM, Scielo) with LDA (Latent Dirichlet Allocation) algorithms."
+
+    - title: OGD IFSP
+      link: ""
+      tagline: "Volunteer Project to allow better visualization of Open Government Data on Brazilian transparency portals"
+
+publications:
+  title: Research
+  intro: |
+    Besides Android development, my secondary interests are related to Computer Vision and Machine Learning. Below you can see some researches
+    that I have been working while still on college. Some of them are still on publishing process, but if you want to
+    give a look, feel free to ask that I will definitely send you a copy.
+
+  papers:
+    - title: A Method for Presentation Attack Detection based on Deep Learning Techniques
+      authors: Rodrigo Bresan, PhD Tiago Carvalho, MsC Carlos Beluzo
+    #        conference: To be published on SIBGRAPI 2018
+
+    - title: Presentation Attack Detection for Face Recognition Systems using Depth, Illuminant and Saliency
+      authors: Rodrigo Bresan, PhD Tiago Carvalho, MsC Carlos Beluzo
+#        conference: To be published on WLATAC 2018
+
+
+skills:
+  title: Skills &amp; Proficiency
+
+  proficient:
+    - name: General
+      keywords: Java, Python, C#, Test Driven Development (TDD), Design Patterns, Code Versioning, Continuous Integration and Deployment (Jenkins, GitLab, BitRise), Containers (Docker).
+
+    - name: Mobile
+      keywords: Android SDK (Kotlin and Java), iOS, React Native, Firebase, Analytics
+
+    - name: Backend
+      keywords: Flask, Django, Spring Boot, NodeJS
+
+    - name: Data Science
+      keywords: Pandas, NumPy, Scikit-Learn, Keras, TensorFlow
+
+  exposure:
+    - name: Frontend
+      keywords: HTML, CSS, PHP, Laravel, React, JavaScript, Jinja, Jekyll
+
+    - name: Databases
+      keywords: Relational (MySQL, Postgres, SQLite, Room), Non-Relational (Realm, Firebase)
+
+    - name: Natural Language Processing
+      keywords: NLTK (Natural Language Toolkit), Word2Vec, Word Embeddings, LDA (Latent Dirichlet Allocation)
+
+    - name: Computer Vision
+      keywords: OpenCV, DLib, Image Segmentation
+
+
+footer: >
