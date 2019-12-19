@@ -2,48 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a90d4549-188d-433b-9712-044d855de4dc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-18-05-packages-in-python.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-18-05-packages-in-python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/sass-code-highlight/monokai.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/sass-code-highlight/monokai.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>we will be using</find>
-      <find>In this noteboo</find>
-      <find>scatter-pl</find>
-      <find>images/</find>
-      <find>images</find>
-      <find>Build</find>
-      <find>These results do</find>
-      <find>visualizate</find>
-      <find>heavility</find>
-      <find>This can be in</find>
-      <find>scatter</find>
-      <find>model.summary</find>
-      <find>tensorflow</find>
-      <find>structure</find>
-      <find>its summa</find>
-      <find>And now let''</find>
-      <find>Race</find>
-      <find>plot.htm</find>
-      <find>width:</find>
-      <find>height=&quot;1000&quot;</find>
-      <find>model.png</find>
-      <find>png</find>
-      <find>Data visu</find>
-      <find>From the report</find>
-      <find>multi-output Deep</find>
-      <find>responsible</find>
-      <find>iframe</find>
-      <find>follow</find>
-      <find>custom loss</find>
-      <find>projects</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/04-multi-output" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/05-packages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -89,15 +56,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_drafts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/05-packages" />
       <recent name="$PROJECT_DIR$/assets/images/04-multi-output" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/03-keras" />
       <recent name="$PROJECT_DIR$/_sass" />
-      <recent name="$PROJECT_DIR$/notebooks" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_drafts" />
     </key>
   </component>
   <component name="RunDashboard">
