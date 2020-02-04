@@ -115,6 +115,8 @@ experiences:
       - Deployment of web applications using Django and Flask.
       - Adoption of TDD for several projects, improving maintanability.
 
+      More info <a href='https://gcgh.grandchallenges.org/grant/decision-making-support-platform-based-visual-analytics-and-machine-learning-subsidize-public'>here</a>.
+
   - role: Android Developer
     time: May 2016 - Dec 2017
     company: <a href="https://cleevio.com/home">Cleevio</a>, Prague (Czech Republic)
@@ -183,11 +185,11 @@ projects:
       tagline: "Biometric app to identify a given user by it's gait activity"
 
     - title: TMDB Clean Architecture
-      link: "https://github.com/bresan/android_tmdb_clean_architecture"
+      link: "https://github.com/rodrigobressan/android_tmdb_clean_architecture"
       tagline: "Showcase project using several Android libraries with Clean Architecture concepts"
 
     - title: GitHub MVVM
-      link: "https://github.com/bresan/GitHubMVVM"
+      link: "https://github.com/rodrigobressan/GitHubMVVM"
       tagline: "Simple project to showcase the usage of GitHub API with a MVVM (Model View ViewModel) Architecture"
 
     - title: Brejei
@@ -195,15 +197,15 @@ projects:
       tagline: "Personal project to display pubs around you, as well as show beer brands"
 
     - title: Nasa APOD (RN)
-      link: "https://github.com/bresan/react_native_apod"
+      link: "https://github.com/rodrigobressan/react_native_apod"
       tagline: "Small React Native to display a list of astronomical pictures from the NASA Astronomy Picture of the Day API"
 
     - title: SpooPy
-      link: "https://github.com/bresan/spoopy"
+      link: "https://github.com/rodrigobressan/spoopy"
       tagline: "Project focused on the Analysis of Presentation Attack Detection for Facial Biometrics"
 
     - title: LDA Analysis
-      link: "https://github.com/bresan/lda_analysis"
+      link: "https://github.com/rodrigobressan/lda_analysis"
       tagline: "Small project for analysing articles from digital libraries (ACM, Scielo) with LDA (Latent Dirichlet Allocation) algorithms."
 
     - title: OGD IFSP
@@ -211,22 +213,26 @@ projects:
       tagline: "Volunteer Project to allow better visualization of Open Government Data on Brazilian transparency portals"
 
 publications:
-  title: Research
-  intro: |
-    Besides Android development, my secondary interests are related to Computer Vision and Machine Learning. Below you can see some researches
-    that I have been working while still on college. Some of them are still on publishing process, but if you want to
-    give a look, feel free to ask that I will definitely send you a copy.
+  title: Research and Publications
 
   papers:
+    - title: Exposing Presentation Attacks by a Combination of Multi-intrinsic Image Properties, Convolutional Networks and Transfer Learning
+      conference: Advanced Concepts for Intelligent Vision Systems (2020, New Zealand)
+
+    - title: Applied Machine Learning for Neonatal Mortality Risk Assessment - A Case Study Using Public Health Data from São Paulo
+      conference: Population Association of America (2020, USA)
+
+    - title: Machine Learning to Predict Neonatal Mortality Using Public Health Data from São Paulo - Brazil
+      conference: European Population Conference (2020, Italy)
+
     - title: A Method for Presentation Attack Detection based on Deep Learning Techniques
-      authors: Rodrigo Bresan, PhD Tiago Carvalho, MsC Carlos Beluzo
-    #        conference: To be published on SIBGRAPI 2018
+      conference: Brazilian Conference on Graphics, Patterns and Images (2018, Brazil)
 
     - title: Presentation Attack Detection for Face Recognition Systems using Depth, Illuminant and Saliency
-      authors: Rodrigo Bresan, PhD Tiago Carvalho, MsC Carlos Beluzo
-#        conference: To be published on WLATAC 2018
+      conference: Latin American Workshop of Works in Progress in Computer Science (2018, Brazil)
 
-
+    - title: A Semantic Approach to Identify Security Management State of Art using NLP - <b>Best Work Award</b>
+      conference: Brazilian National Institute for Space Research Applied Computing Workshop (2018, Brazil)
 skills:
   title: Skills &amp; Proficiency
 
