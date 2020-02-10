@@ -8,17 +8,17 @@ sidebar:
   resume: True
 
   # Profile information
-  name: Rodrigo Bresan
+  name: Rodrigo Bressan
   tagline: Software Developer and<br/>Data Science Enthusiast
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: me@rodrigobresan.com
-  linkedin: bresan
-  github: bresan
+  email: bressanrc@gmail.com
+  linkedin: rodrigobressan
+  github: rodrigobressan
   gitlab:
   bitbucket:
-  #    medium: medium.com/@bresan
+  #    medium: medium.com/@rodrigobressan
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
 
@@ -57,24 +57,15 @@ career-profile:
   title: About Me
   summary: |
 
-    Hey there,
+    If I could describe my professional life, it would be like: software developer by passion; data scientist by accident.
 
-     My name is Rodrigo, and I currently work as a Software Developer and Data Science researcher at Federal Institute of São Paulo. My major interests are related
-     to Software Engineering and Development, but I am also interested on Data Science and Visualization. My current duties at Federal Institute of São Paulo are related to
-     building solutions in the areas of decision making policies in healthcare by using Machine Learning techniques. I also do work with Biometrics and Deep Learning on my spare time.
+    I am currently working at Federal Institute of São Paulo in a sponsored project by The Bill and Melinda Gates Foundation. This project consists mainly in the crafting of solutions to reduce neonatal mortality by adopting Data Science and Visualization techniques. My current duties are related to building end-to-end solutions, from both a software architecture and engineering point of view to both deployment of trained Machine Learning models into production environments.
 
-     My current tech stack is composed mostly of data science tools, being mostly Python, Scikit-Learn, Keras and Plotting libraries (plotly, d3js, matplot), but I do also
-     work heavily on software development with Django and Flask. When needed, I also support my team with some DevOps role, mostly by building Continuous Integration and
-     Deployment pipelines (with Jenkins and Docker).
+    In the past I have also worked with Biometrics, mostly with Presentation Attack Detection (Spoofing), along as well with its integration with mobile devices (such as the Android platform). I have large professional experience (6 years) with Android applications, so most of the time I can overlap my knowledge on it with Machine Learning tools.
 
-     In the past I have worked with other technologies, such as mobile development (Android, iOS and React Native), as well as integrating embedded devices with Biometric solutions, such as
-     Presentation Attack Detection (Anti-Spoofing) and Gait Analysis.
+    My current working environment is composed mostly of software development and data science tools, such as Django and Flask (with Python) for creating web services, Java and Kotlin for Android development, along with several frameworks for Data Science, such as Scikit-Learn and Keras, and data visualization with MatplotLib and Plotly. I also heavily rely on OpenCV and DLib to work on Computer Vision tasks. Besides this toolkit, I also work with Continuous Integration and Deployment pipelines, mostly with Jenkins and Docker, with some minor exposure to GitLab and Github Actions.
 
-     I am always trying to learn new things, and I do believe that the best way to (effectively) learn something is by teaching others about it. This can be intended as the major
-     purpose of this blog.
-
-     My major focus when working is to build reliable solutions, with major focus on testability, flexibility and ease to understand. If you share the same philosophy as me, feel free to call me for a quick chat.
-
+    You can find some of my open source contributions in my personal GitHub (https://github.com/rodrigobressan).
 education:
   - degree: Data Science and Artificial Intelligence
     university: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a>
