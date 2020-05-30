@@ -57,15 +57,12 @@ career-profile:
   title: About Me
   summary: |
 
-    If I could describe my professional life, it would be like: software developer by passion; data scientist by accident.
+    Experience on building solutions for both web and mobile platforms (Android, iOS and hybrid) using Machine Learning and Computer Vision. I am enthusiastic about learning new things and sharing the knowledge with the people around me. My goal is to always create well written, readable and tested code.  I also enjoy contributing to open source (you can check it <a href="https://github.com/rodrigobressan" target="_blank">here</a>) and writing on my personal blog.
 
-    I am currently working at Federal Institute of São Paulo in a sponsored project by The Bill and Melinda Gates Foundation. This project consists mainly in the crafting of solutions to reduce neonatal mortality by adopting Data Science and Visualization techniques. My current duties are related to building end-to-end solutions, from both a software architecture and engineering point of view to both deployment of trained Machine Learning models into production environments.
+    You can find my up-to-date resume <a href="https://bressan.xyz/resume.pdf" target="_blank">here</a>.
 
-    In the past I have also worked with Biometrics, mostly with Presentation Attack Detection (Spoofing), along as well with its integration with mobile devices (such as the Android platform). I have large professional experience (6 years) with Android applications, so most of the time I can overlap my knowledge on it with Machine Learning tools.
+    Feel free to reach me if you have any available opportunities, I am sure that we could collaborate together.
 
-    My current working environment is composed mostly of software development and data science tools, such as Django and Flask (with Python) for creating web services, Java and Kotlin for Android development, along with several frameworks for Data Science, such as Scikit-Learn and Keras, and data visualization with MatplotLib and Plotly. I also heavily rely on OpenCV and DLib to work on Computer Vision tasks. Besides this toolkit, I also work with Continuous Integration and Deployment pipelines, mostly with Jenkins and Docker, with some minor exposure to GitLab and Github Actions.
-
-    You can find some of my open source contributions in my personal GitHub (https://github.com/rodrigobressan).
 education:
   - degree: Data Science and Artificial Intelligence
     university: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a>
@@ -208,22 +205,27 @@ publications:
 
   papers:
     - title: Determinants of the Neonatal Mortality Risk in Brazil, 2006-2016 - A Machine Learning Models Approach
-      conference: Population Association of America (2020, Washington DC)
+      conference: Population Association of America (2020, Washington DC) OK
+
+    - title: (Preprint) Machine Learning for Neonatal Mortality Risk Assessment -  A Case Study Using Public Health Data from São Paulo
+      conference: Preprint (2020) OK
+      link: https://www.medrxiv.org/content/10.1101/2020.05.25.20112896v1
 
     - title: Exposing Presentation Attacks by a Combination of Multi-intrinsic Image Properties, Convolutional Networks and Transfer Learning
-      conference: Advanced Concepts for Intelligent Vision Systems (2020, New Zealand)
+      conference: Advanced Concepts for Intelligent Vision Systems (2020, New Zealand) OK
+      link: https://link.springer.com/chapter/10.1007/978-3-030-40605-9_14
 
     - title: Applied Machine Learning for Neonatal Mortality Risk Assessment - A Case Study Using Public Health Data from São Paulo
-      conference: Population Association of America (2020, Washington DC)
+      conference: Population Association of America (2020, Washington DC) OK
 
     - title: Machine Learning to Predict Neonatal Mortality Using Public Health Data from São Paulo - Brazil
-      conference: European Population Conference (2020, Italy)
+      conference: European Population Conference (2020, Italy) OK
 
     - title: A Method for Presentation Attack Detection based on Deep Learning Techniques
-      conference: Brazilian Conference on Graphics, Patterns and Images (2018, Brazil)
+      conference: Brazilian Conference on Graphics, Patterns and Images (2018, Brazil) OK
 
     - title: Presentation Attack Detection for Face Recognition Systems using Depth, Illuminant and Saliency
-      conference: Latin American Workshop of Works in Progress in Computer Science (2018, Brazil)
+      conference: Latin American Workshop of Works in Progress in Computer Science (2018, Brazil) OK
 
     - title: A Semantic Approach to Identify Security Management State of Art using NLP - <b>Best Work Award</b>
       conference: Brazilian National Institute for Space Research Applied Computing Workshop (2018, Brazil)
