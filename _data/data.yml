@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Rodrigo Bressan
-  tagline: Software Developer and<br/>Data Science Enthusiast
+  tagline: Software Developer and<br/>Data Scientist
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -58,8 +58,6 @@ career-profile:
   summary: |
 
     Experience on building solutions for both web and mobile platforms (Android, iOS and hybrid) using Machine Learning and Computer Vision. I am enthusiastic about learning new things and sharing the knowledge with the people around me. My goal is to always create well written, readable and tested code.  I also enjoy contributing to open source (you can check it <a href="https://github.com/rodrigobressan" target="_blank">here</a>) and writing on my personal blog.
-
-    You can find my up-to-date resume <a href="https://bressan.xyz/resume.pdf" target="_blank">here</a>.
 
     Feel free to reach me if you have any available opportunities, I am sure that we could collaborate together.
 
