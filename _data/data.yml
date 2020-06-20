@@ -57,7 +57,7 @@ career-profile:
   title: About Me
   summary: |
 
-    Experience on building solutions for both web and mobile platforms (Android, iOS and hybrid) using Machine Learning and Computer Vision. I am enthusiastic about learning new things and sharing the knowledge with the people around me. My goal is to always create well written, readable and tested code.  I also enjoy contributing to open source (you can check it <a href="https://github.com/rodrigobressan" target="_blank">here</a>) and writing on my personal blog.
+    Experience on building solutions for both web and mobile platforms (Android, iOS and hybrid) using Machine Learning and Computer Vision. I am enthusiastic about learning new things and sharing the knowledge with the people around me. My goal is to always create well written, readable and tested code. I also enjoy contributing to open source (you can check it <a href="https://github.com/rodrigobressan" target="_blank">here</a>) and writing on my personal blog.
 
     Feel free to reach me if you have any available opportunities, I am sure that we could collaborate together.
 
@@ -202,30 +202,37 @@ publications:
   title: Research and Publications
 
   papers:
+    - title: Maternal characteristics and the risk of neonatal mortality in Brazil between 2006 and 2016
+      conference: International Journal of Population Studies
+      link: /assets/publications/ijps_maternal_characteristics.pdf
+
     - title: Determinants of the Neonatal Mortality Risk in Brazil, 2006-2016 - A Machine Learning Models Approach
-      conference: Population Association of America (2020, Washington DC) OK
+      conference: Population Association of America (2020, Washington DC)
 
     - title: (Preprint) Machine Learning for Neonatal Mortality Risk Assessment -  A Case Study Using Public Health Data from São Paulo
-      conference: Preprint (2020) OK
-      link: https://www.medrxiv.org/content/10.1101/2020.05.25.20112896v1
+      conference: Preprint (2020)
+      link: /assets/publications/medrxiv_2020_braasch.pdf
 
     - title: Exposing Presentation Attacks by a Combination of Multi-intrinsic Image Properties, Convolutional Networks and Transfer Learning
-      conference: Advanced Concepts for Intelligent Vision Systems (2020, New Zealand) OK
-      link: https://link.springer.com/chapter/10.1007/978-3-030-40605-9_14
+      conference: Advanced Concepts for Intelligent Vision Systems (2020, New Zealand)
+      link: /assets/publications/acivs_2020_pad.pdf
 
     - title: Applied Machine Learning for Neonatal Mortality Risk Assessment - A Case Study Using Public Health Data from São Paulo
-      conference: Population Association of America (2020, Washington DC) OK
+      conference: Population Association of America (2020, Washington DC)
 
     - title: Machine Learning to Predict Neonatal Mortality Using Public Health Data from São Paulo - Brazil
-      conference: European Population Conference (2020, Italy) OK
+      conference: European Population Conference (2020, Italy)
+      link: /assets/publications/epc_2020_braasch.pdf
 
     - title: A Method for Presentation Attack Detection based on Deep Learning Techniques
-      conference: Brazilian Conference on Graphics, Patterns and Images (2018, Brazil) OK
+      conference: Brazilian Conference on Graphics, Patterns and Images (2018, Brazil)
+      link: /assets/publications/sibgrapi_pad.pdf
 
     - title: Presentation Attack Detection for Face Recognition Systems using Depth, Illuminant and Saliency
-      conference: Latin American Workshop of Works in Progress in Computer Science (2018, Brazil) OK
+      conference: Latin American Workshop of Works in Progress in Computer Science (2018, Brazil)
+      link: /assets/publications/wlatac_pad.pdf
 
-    - title: A Semantic Approach to Identify Security Management State of Art using NLP - <b>Best Work Award</b>
+    - title: A Semantic Approach to Identify Security Management State of Art using NLP - <b>Best Poster Presentation Award</b>
       conference: Brazilian National Institute for Space Research Applied Computing Workshop (2018, Brazil)
 skills:
   title: Skills &amp; Proficiency
