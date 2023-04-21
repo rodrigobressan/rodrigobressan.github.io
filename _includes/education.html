@@ -25,7 +25,7 @@
     </div><!--//meta-->
 
     {% if graduation.details %}
-<!--    <button class="link" onclick="toggleEducationDetails('{{ forloop.index }}')">Details</button>-->
+    <button class="link" onclick="toggleEducationDetails('{{ forloop.index }}')">More info</button>
 
     <div id="education_details_{{ forloop.index }}" class="item_detail">
       {{ graduation.details | markdownify }}
@@ -57,12 +57,11 @@
           <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="university">{{ graduation.university }}</div>
+<!--        <div class="university">{{ graduation.university }}</div>-->
       </div><!--//meta-->
 
       {% if graduation.details %}
       <div class="details">
-        {{ graduation.details | markdownify }}
       </div><!--//details-->
       {% endif %}
 

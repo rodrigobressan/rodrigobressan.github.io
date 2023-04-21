@@ -8,7 +8,7 @@
         {% endif %}
 
         {% if sidebar.name %}
-        <h1 class="name">{{ sidebar.name }}</h1>
+        <h3>{{ sidebar.name }}</h3>
         {% endif %}
 
         {% if sidebar.tagline %}
@@ -18,6 +18,7 @@
     </div><!--//profile-container-->
 
     {% include navigation.html %}
+    {% include language.html %}
 
     {% include last_posts.html %}
     {% include tags.html %}

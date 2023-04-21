@@ -11,8 +11,6 @@
     </h2>
 
     <div class="skillset">
-
-        <h4>Proficient</h4>
         {% for skill in skills.proficient %}
         <div class="item">
 
@@ -25,19 +23,19 @@
     </div>
 
     <br/>
-     <div class="skillset">
+<!--     <div class="skillset">-->
 
-        <h4>Intermediate</h4>
-        {% for skill in skills.exposure %}
-        <div class="item">
+<!--        <h4>Intermediate</h4>-->
+<!--        {% for skill in skills.exposure %}-->
+<!--        <div class="item">-->
 
-            <h3 class="level-title">{{ skill.name }}</h3>
+<!--            <h3 class="level-title">{{ skill.name }}</h3>-->
 
-            <div class="keywords">{{ skill.keywords }}</div>
+<!--            <div class="keywords">{{ skill.keywords }}</div>-->
 
-        </div><!--//item-->
-        {% endfor %}
-    </div>
+<!--        </div>&lt;!&ndash;//item&ndash;&gt;-->
+<!--        {% endfor %}-->
+<!--    </div>-->
 
 </section><!--//skills-section-->
 {% endif %}

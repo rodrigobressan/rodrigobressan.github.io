@@ -9,132 +9,132 @@ sidebar:
 
   # Profile information
   name: Rodrigo Bressan
-  tagline: Software Developer and<br/>Data Scientist
-  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Full Stack Engineer
+  avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: bressanrc@gmail.com
-  linkedin: rodrigobressan
+  linkedin: rbressan
   github: rodrigobressan
   gitlab:
   bitbucket:
-  #    medium: medium.com/@rodrigobressan
+  medium: medium.com/@rodrigobressan
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
 
-  #    languages:
-  #      - idiom: Portuguese
-  #        level: Native
-  #
-  #      - idiom: English
-  #        level: Professional
-  #
-  #      - idiom: Italian
-  #        level: Intermediate
-  ##
-  #      - idiom: Spanish
-  #        level: Intermediate
+  languages:
+    - idiom: Portuguese
+      level: Native
+
+    - idiom: English
+      level: Professional Experience
+
+    - idiom: Italian
+      level: Advanced
+
+    - idiom: Spanish
+      level: Intermediate
 
   interests:
 
     - item: Software Engineering
       link:
 
+    - item: Cloud Computing
+      link:
+
     - item: Systems Design
-      link:
-
-    - item: Biometrics
-      link:
-
-    - item: Computer Vision
-      link:
-
-    - item: Deep Learning
       link:
 
 
 career-profile:
   title: About Me
   summary: |
+    I am a Full Stack Engineer, with over 9 years of professional experience on extensively building reliable, robust and failure-tolerant applications. In the past 3 years, I have been working on mission critical systems (over 99% of uptime) on the field of biomedics and healthcare.
 
-    Experience on building solutions for both web and mobile platforms (Android, iOS and hybrid) using Machine Learning and Computer Vision. I am enthusiastic about learning new things and sharing the knowledge with the people around me. My goal is to always create well written, readable and tested code. I also enjoy contributing to open source (you can check it <a href="https://github.com/rodrigobressan" target="_blank">here</a>) and writing on my personal blog.
+    My skills cover the full spectrum of the cloud development, from the following areas:
+    - <b>Front-end</b>: <i>React, Angular and Vue frameworks. Extensive knowledge of HTML, CSS and JS/Typescript</i>
+    - <b>Backend</b>: <i>Go, Python (Django), Java (Spring), NodeJS and Databases (SQL and NoSQL)</i>
+    - <b>Infrastructure</b>: <i>AWS, IaC (Terraform), CI/CD, Kubernetes, Argo Workflows</i>
+    - <b>ETL and Data Processing</b>: <i>AWS (Serverless, Glue, Lambdas, S3, Firehose), NumPy and Pandas</i>
+    
+    
+    I have experience on <b>coordinating efforts between technical and non-technical people</b>, while also being able to understand and balance out product needs with technical requirements.
 
-    Feel free to reach me if you have any available opportunities, I am sure that we could collaborate together.
+    Furthermore, I am <b>highly enthusiastic about learning new technologies and exploring new ways to solve problems</b> - but I for sure know that we should avoid reinventing the wheel, when possible.
 
+    My work is always focused on building <b>highly testable code</b>, to which I believe brings not only an additional layer of security against bugs/defects, but also brings confidence to the team I am working with.
+
+    On my spare time, I write on my personal blog and Medium, and I have a few active Open Source projects, which you can see on my <a href="github.com/rodrigobressan">Github</a>
 education:
-  - degree: Data Science and Artificial Intelligence
+  - degree: Minor on Data Science and Artificial Intelligence
     university: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a>
     time: 2018 - 2018
-    details: Extension course taught by <a href="https://scholar.google.com.br/citations?user=5nhvZXYAAAAJ&hl=pt-BR">PhD Tiago Carvalho</a> and <a href="https://www.escavador.com/sobre/9805100/ricardo-sovat">PhD Ricardo Sovat</a> on subjects related
-      to Data Science introduction, such as building Machine Learning pipelines with Pandas, Numpy and Scikit-Learn for both supervised (Random Forests, XGBoost, SVM) and unsupervised learning (KNN, K-Means). Introduction to building Artificial Neural Networks and Deep Neural Networks with Keras and TensorFlow frameworks.
-
-  - degree: Technologic in System Analysis and Development
+#    details:
+#      - Data Extraction, cleansing and processing
+#      - AI/ML Deep Learning models training
+#      - Deployment of ML models in production
+  - degree: Bachelors in Computer Science
     university: <a href="https://cmp.ifsp.edu.br/">Federal Institute of São Paulo</a>
     time: 2015 - 2019
-    details: Major course on software development with popular languages (Python, Java, C++), with a major focus on software engineering (design patterns, architecture, testing, deployment), Project Mangement (Agile methodologies, Scrum) and Data Science (introductory models, SVM, clustering and Neural Networks).
+#    details: Major course on software development with popular languages (Python, Java, C++), with a major focus on software engineering (design patterns, architecture, testing, deployment), Project Mangement (Agile methodologies, Scrum) and Data Science (introductory models, SVM, clustering and Neural Networks).
 
-  - degree: Technician in Informatics (previously called Data Processing)
+  - degree: Technician in Informatics
     university: <a href="http://cotuca.unicamp.br/cotuca/">Technical College of Unicamp</a>
     time: 2011 - 2014
-    details: Software Development course with major focus on programming languages (Java, C, C++ and C#), relational databases (MySQL and SQL Server) and Web Development (HTML, CSS and Javascript).
+#    details: Software Development course with major focus on programming languages (Java, C, C++ and C#), relational databases (MySQL and SQL Server) and Web Development (HTML, CSS and Javascript).
 
 experiences:
-  - role: Software Developer and Data Science Researcher
-    time: Jan 2018 - Current
-    company: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a> and <a href="https://www.nepo.unicamp.br/" target="_blank">UNICAMP (NEPO)</a>, São Paulo (Brazil)
+  - role: Full Stack Engineer
+    time: Jul 2020 - Oct 2022
+    company: Empatica, Italy
     intro: |
-      Project sponsored by the Bill & Melinda Gates Foundation, along with the Brazilian Ministry of Health, the National Council for Scientific and Technological Development (CNPQ) and the São Paulo Research Foundation (FAPESP).
+      - Built REST and gRPC APIs with Go, deployed on AWS with Kubernetes and Terraform
+      - Implemented features on front-end applications using React and Angular frameworks
+      - Improved APIs with caching and SQL indexes, reducing response times by ~35%
+      - Re-designed an existing data lake using a serverless approach, improving costs, scalability and data retrieval times
+      - Led the adoption of code quality metrics, increasing overall code coverage to 80%
+      - Led the mapping and documentation of the existing infrastructure using the C4 model
+      - Participated on the hiring and onboarding processes, while also mentored junior engineers
 
-      Building decision making solutions using Data Science and Machine Learning techniques for Healthcare
-      related projects and biometrics. Major exposure on building web-based platforms along with pipelines for
-      Continous Integration and Deployment.
-
-      - Cleansing and feature engineering on healthcare data using Pandas and Apache Spark.
-      - Training and Finetuning of ML models with Scikit-Learn and Keras.
-      - Adoption of ensembling methods (baggging and stacking).
-      - Implementation of novel Neural Networks architectures with Keras.
-      - Deployment of ML models to prevent Face Spoofing on mobile applications.
-      - Collaboration with <a href="https://www.unicamp.br/unicamp/english" target="_blank">UNICAMP (RECOD)</a> on Biometric Gait Analysis on mobile devices;
-      - Usage of Computer Vision libraries such as OpenCV and DLib;
-      - Interactive Data Visualization with D3JS and Plotly.
-      - Setup of CI and CD pipelines with Jenkins and Docker.
-      - Deployment of web applications using Django and Flask.
-      - Adoption of TDD for several projects, improving maintanability.
-
+  - role: Software and Data Engineer
+    time: Jan 2018 - May 2020
+    company: Bill & Melinda Gates Foundation, Brazil
+    intro: |
+      - Mentored software & data engineers on software engineering topics (clean code, testing)
+      - Setup infrastructure, allowing data engineers to test and deploy Machine Learning models
+      - Led the adoption multithreading techniques, improving ETL pipelines performance by 70%
+      - Led the migration from monolith to microservice apps, reducing deployment times by 30%
+      - Built ETL pipelines from scratch using Python, Pandas, MySQL and Postgres databases
+     
       More info <a href='https://gcgh.grandchallenges.org/grant/decision-making-support-platform-based-visual-analytics-and-machine-learning-subsidize-public'>here</a>.
 
-  - role: Android Developer
+  - role: Software Engineer
     time: May 2016 - Dec 2017
     company: <a href="https://cleevio.com/home">Cleevio</a>, Prague (Czech Republic)
     intro: |
-      Working primarily with European based clients on B2C projects on building mobile based applications with Android SDK. Major exposure
-      to Java and Kotlin, along with adoption of TDD techniques and CI/CD pipelines.
-
-      - Development of Android applications using Java and Kotlin;
-      - End-to-end deployment, from initial concepts up to release on Play Store;
-      - Implementation of TDD (unit and instrumentation tests) with JUnit, Mockito and Espresso;
-      - CI/CD setup with GitLab CI, HockeyApp and Play Store.
-      - Integration with 3rd party payment services and IAP with Google Play;
+      - Led the migration of mobile apps from Java to Kotlin, allowing code re-usage on Android and iOS platforms
+      - Introduced Test Driven Development methodologies, resulting in quicker iteration cycles between developers and QA
+      - Defined a set of architectural models to be adopted, resulting on more modular and testable components
 
   - role: Software Developer
     time: Jun 2015 - May 2016
-    company: Undisclosed Company
+    company: Independent Contractor
     intro: |
-      Working in the development of mobile and web based applications to provide real-time data and insights about
-      delivery trucks all over Brazilian territory. Major exposure to Android SDK, Location Services and Firebase SDK.
+      - Built marketplace app for Brazilian carrier, with over 2 million active users
+      - Tracking system for Brazilian truckers under extreme conditions (low to none connectivity)
+      - Healthcare App, allowing users to analyse symptoms and provide treatment using AI 
+      - B2C application for delivering packages over EU countries
 
-      Minor works on scraping and analysis of Open Government Data provided by Brazilian transparency portals by using
-      Optical Character Recognition and Tabula, as well as deployment of REST based applications to allow their consumption.
 
-
-  - role: Android Developer
+  - role: Software Developer
     time: Jan 2014 - Jun 2015
-    company: <a href="https://movile.com/">Movile</a>, São Paulo (Brazil)
+    company: <a href="https://movile.com/">Movile</a>, Brazil
     intro: |
-      Working closely to Brazilian carriers in the development of Android applications, with over 4 million users.
-
-      - Android SDK and Firebase, along with code reuse by using flavors and build types.
-      - Deployment on HockeyApp and Google Play by using Jenkins CI.
+      Building mobile solutions for Brazilian and Latin America cellphone carriers. Integration with third-party APIs, web services over REST, usage of Android core APIs and payment gateways.
+  
+      - Built Android applications, integrating with REST APIs, along with CI/CD to app stores
+      - Integratred custom CMS's and third party providers, automating existing manual tasks
 
 projects:
   title: Projects
@@ -237,33 +237,19 @@ publications:
     - title: A Semantic Approach to Identify Security Management State of Art using NLP - <b>Best Poster Presentation Award</b>
       conference: Brazilian National Institute for Space Research Applied Computing Workshop (2018, Brazil)
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills & Technologies
 
   proficient:
-    - name: General
-      keywords: Java, Python, C#, Test Driven Development (TDD), Design Patterns, Code Versioning, Continuous Integration and Deployment (Jenkins, GitLab, BitRise), Containers (Docker).
-
-    - name: Mobile
-      keywords: Android SDK (Kotlin and Java), iOS, React Native, Firebase, Analytics
-
     - name: Backend
-      keywords: Flask, Django, Spring Boot, NodeJS
+      keywords: Go, Python (Django), Java (Spring), NodeJS, Databases (SQL and NoSQL)
 
-    - name: Data Science
-      keywords: Pandas, NumPy, Scikit-Learn, Keras, TensorFlow
+    - name: Front-end
+      keywords: React, Vue, HTML, CSS, Javascript, Typescript
 
-  exposure:
-    - name: Frontend
-      keywords: HTML, CSS, PHP, Laravel, React, JavaScript, Jinja, Jekyll
+    - name: Infrastucture
+      keywords: Amazon Web Services (AWS), Terraform, K8S, Docker
 
-    - name: Databases
-      keywords: Relational (MySQL, Postgres, SQLite, Room), Non-Relational (Realm, Firebase)
-
-    - name: Natural Language Processing
-      keywords: NLTK (Natural Language Toolkit), Word2Vec, Word Embeddings, LDA (Latent Dirichlet Allocation)
-
-    - name: Computer Vision
-      keywords: OpenCV, DLib, Image Segmentation
-
+    - name: Others
+      keywords: Mobile Development (Android & iOS), Data Visualization, Automation
 
 footer: >

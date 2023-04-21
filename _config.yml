@@ -4,7 +4,7 @@
 title: Rodrigo Bressan
 url: 'http://rodrigobressan.com'
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: turquoise # blue turquoise green berry orange ceramic
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 plugins:
   - jekyll-paginate
