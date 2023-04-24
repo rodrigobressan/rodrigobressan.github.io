@@ -50,7 +50,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    I am a Full Stack Engineer, with over 9 years of professional experience on extensively building reliable, robust and failure-tolerant applications. In the past 3 years, I have been working on mission critical systems (over 99% of uptime) on the field of biomedics and healthcare.
+    I am a Full Stack Engineer, with over 9 years of professional experience on extensively building <b>reliable, robust and fault-tolerant systems</b>. In the past 3 years, I have been working on <b>mission critical systems (over 99% of uptime) on the field of biomedics and healthcare</b>.
 
     My skills cover the full spectrum of the cloud development, from the following areas:
     - <b>Front-end</b>: <i>React, Angular and Vue frameworks. Extensive knowledge of HTML, CSS and JS/Typescript</i>
