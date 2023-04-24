@@ -69,7 +69,7 @@ career-profile:
 education:
   - degree: Minor on Data Science and Artificial Intelligence
     university: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a>
-    time: 2018 - 2018
+    time: 2018 - 2019
 #    details:
 #      - Data Extraction, cleansing and processing
 #      - AI/ML Deep Learning models training
@@ -89,23 +89,23 @@ experiences:
     time: Jul 2020 - Oct 2022
     company: Empatica, Italy
     intro: |
-      - Built REST and gRPC APIs with Go, deployed on AWS with Kubernetes and Terraform
-      - Implemented features on front-end applications using React and Angular frameworks
-      - Improved APIs with caching and SQL indexes, reducing response times by ~35%
-      - Re-designed an existing data lake using a serverless approach, improving costs, scalability and data retrieval times
-      - Led the adoption of code quality metrics, increasing overall code coverage to 80%
+      - Built <b>REST and gRPC APIs with Go</b>, deployed on <b>AWS</b> with <b>Kubernetes</b> and <b>Terraform</b>
+      - Implemented features on front-end applications using <b>React</b> and <b>Angular</b> frameworks
+      - Optimized APIs with caching and SQL indexes, <b>reducing response times by ~35%</b>
+      - Re-designed an existing data lake using a <b>serverless</b> approach, improving <b>costs, scalability and data retrieval times</b>
+      - Led the adoption of code quality metrics, <b>increasing overall code coverage to 80%</b>
       - Led the mapping and documentation of the existing infrastructure using the C4 model
-      - Participated on the hiring and onboarding processes, while also mentored junior engineers
+      - Participated on the <b>hiring</b> and onboarding processes, while also <b>mentored</b> junior engineers
 
   - role: Software and Data Engineer
     time: Jan 2018 - May 2020
     company: Bill & Melinda Gates Foundation, Brazil
     intro: |
-      - Mentored software & data engineers on software engineering topics (clean code, testing)
-      - Setup infrastructure, allowing data engineers to test and deploy Machine Learning models
-      - Led the adoption multithreading techniques, improving ETL pipelines performance by 70%
-      - Led the migration from monolith to microservice apps, reducing deployment times by 30%
-      - Built ETL pipelines from scratch using Python, Pandas, MySQL and Postgres databases
+      - <b>Mentored</b> software & data engineers on software engineering topics (clean code, testing)
+      - Setup <b>infrastructure</b>, allowing data engineers to test and deploy Machine Learning models
+      - Led the adoption multithreading techniques, <b>improving ETL pipelines performance by 70%</b>
+      - Led the migration from monolith to microservice apps, <b>reducing deployment times by 30%</b>
+      - Built <b>ETL pipelines</b> using <b>Python, Pandas, MySQL and Postgres</b> databases
      
       More info <a href='https://gcgh.grandchallenges.org/grant/decision-making-support-platform-based-visual-analytics-and-machine-learning-subsidize-public'>here</a>.
 
@@ -113,9 +113,9 @@ experiences:
     time: May 2016 - Dec 2017
     company: <a href="https://cleevio.com/home">Cleevio</a>, Prague (Czech Republic)
     intro: |
-      - Led the migration of mobile apps from Java to Kotlin, allowing code re-usage on Android and iOS platforms
-      - Introduced Test Driven Development methodologies, resulting in quicker iteration cycles between developers and QA
-      - Defined a set of architectural models to be adopted, resulting on more modular and testable components
+      - Led the migration of mobile apps from <b>Java to Kotlin</b>, allowing code re-usage on Android and iOS platforms
+      - Introduced <b>Test Driven Development</b> methodologies, resulting in quicker iteration cycles between developers and QA
+      - Defined a set of architectural models to be adopted, resulting on more <b>modular and testable</b> components
 
   - role: Software Developer
     time: Jun 2015 - May 2016
@@ -137,69 +137,70 @@ experiences:
       - Integratred custom CMS's and third party providers, automating existing manual tasks
 
 projects:
-  title: Projects
+  title: Open Source contributions and Past projects
   intro: >
-
   assignments:
 
-    - title: Vivo +Apps
+    - title: "Ponte Italia"
+      link: "https://ponteitalia.com.br"
+      description: "Author, Open Source"
+      tagline: "Find information about your ancestors using Italian government birth records (Python, React, MySQL, AWS)"
+
+    - title: "AnkiDroid"
+      link: "https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=pt_BR"
+      description: "Collaborator, Open Source"
+      tagline: "A semi-official port of the open source Anki spaced repetition flashcard system to Android with over 5M downloads"
+
+    - title: "Face2Data"
+      link: "http://github.com/rodrigobressan/face2data"
+      description: "Author, Open Source"
+      tagline: "Retrieve information from a person based on its face(Python, React, Keras, AWS, Neural Networks)"
+
+    - title: "DigiPathos"
+      link: "http://github.com/rodrigobressan/digipathos"
+      description: "Author, Open Source"
+      tagline: "Retrieve plant diseases datasets from Brazilian Agricultural website through CLI or APIs (Python)"
+
+    - title: "PADify"
+      link: "https://github.com/rodrigobressan/PADify"
+      description: "Author, Open Source"
+      tagline: " Identify forged facial biometric samples with Neural Networks (Python, Keras, TensorFlow)"
+
+    - title: "Vivo +Apps"
       link: "https://play.google.com/store/apps/details?id=com.movile.android.appsvivo"
       tagline: "App Marketplace for Brazilian telephony carrier (Vivo). Over 5 million unique installs."
 
-    - title: AnkiDroid
-      link: "https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=pt_BR"
-      tagline: "A semi-official port of the open source Anki spaced repetition flashcard system to Android"
-
-    - title: Bringr
+    - title: "Bringr"
       link: "https://vimeo.com/187623068"
       tagline: "Uber-similar application to allow users to send and receive packages all over Europe"
 
-    - title: Saúde a Qualquer Hora
+    - title: "Saúde a Qualquer Hora"
       link: "https://play.google.com/store/apps/details?id=br.com.saudeaqualquerhora"
       tagline: "Health-related app where users can communicate with doctors directly using Firebase as backend."
 
-    - title: News Luciana Gimenez
+    - title: "News Luciana Gimenez"
       link: ""
       tagline: "Magazine like app for Brazilian actress Luciana Gimenez"
 
-    - title: MinutoMobi (TIM)
+    - title: "MinutoMobi (TIM)"
       link: ""
       tagline: "Newsreader for Brazilian carrier (TIM) consuming articles from Reuters API"
 
-    - title: Gait RECOD
-      link: ""
-      tagline: "Biometric app to identify a given user by it's gait activity"
-
-    - title: TMDB Clean Architecture
+    - title: "The Movie Database Clean Architecture"
+      description: "Author, Open Source"
       link: "https://github.com/rodrigobressan/android_tmdb_clean_architecture"
       tagline: "Showcase project using several Android libraries with Clean Architecture concepts"
 
-    - title: GitHub MVVM
+    - title: "GitHub MVVM"
       link: "https://github.com/rodrigobressan/GitHubMVVM"
       tagline: "Simple project to showcase the usage of GitHub API with a MVVM (Model View ViewModel) Architecture"
 
-    - title: Brejei
-      link: "https://play.google.com/store/apps/details?id=br.com.bresan.brejei&hl=pt_BR"
-      tagline: "Personal project to display pubs around you, as well as show beer brands"
-
-    - title: Nasa APOD (RN)
+    - title: "Nasa APOD (RN)"
       link: "https://github.com/rodrigobressan/react_native_apod"
       tagline: "Small React Native to display a list of astronomical pictures from the NASA Astronomy Picture of the Day API"
 
-    - title: SpooPy
-      link: "https://github.com/rodrigobressan/spoopy"
-      tagline: "Project focused on the Analysis of Presentation Attack Detection for Facial Biometrics"
-
-    - title: LDA Analysis
-      link: "https://github.com/rodrigobressan/lda_analysis"
-      tagline: "Small project for analysing articles from digital libraries (ACM, Scielo) with LDA (Latent Dirichlet Allocation) algorithms."
-
-    - title: OGD IFSP
-      link: ""
-      tagline: "Volunteer Project to allow better visualization of Open Government Data on Brazilian transparency portals"
-
 publications:
-  title: Research and Publications
+  title: Academic Research and Publications
 
   papers:
     - title: Maternal characteristics and the risk of neonatal mortality in Brazil between 2006 and 2016
