@@ -53,11 +53,10 @@ career-profile:
     I am a Full Stack Engineer, with over 9 years of professional experience on extensively building <b>reliable, robust and fault-tolerant systems</b>. In the past 3 years, I have been working on <b>mission critical systems (over 99% of uptime) on the field of biomedics and healthcare</b>.
 
     My skills cover the full spectrum of the cloud development, from the following areas:
-    - <b>Front-end</b>: <i>React, Angular and Vue frameworks. Extensive knowledge of HTML, CSS and JS/Typescript</i>
+    - <b>Front-end</b>: <i>React, Angular and Vue frameworks. HTML, CSS and JS/Typescript</i>
     - <b>Backend</b>: <i>Go, Python (Django), Java (Spring), NodeJS and Databases (SQL and NoSQL)</i>
-    - <b>Infrastructure</b>: <i>AWS, IaC (Terraform), CI/CD, Kubernetes, Argo Workflows</i>
-    - <b>ETL and Data Processing</b>: <i>AWS (Serverless, Glue, Lambdas, S3, Firehose), NumPy and Pandas</i>
-    
+    - <b>Infrastructure</b>: <i>AWS, GCP, Terraform, CI/CD, Kubernetes, Argo Workflows</i>
+    - <b>ETL and Data Processing</b>: <i>AWS (Glue, Lambdas, S3, Firehose), NumPy and Pandas</i>
     
     I have experience on <b>coordinating efforts between technical and non-technical people</b>, while also being able to understand and balance out product needs with technical requirements.
 
@@ -121,9 +120,9 @@ experiences:
     time: Jun 2015 - May 2016
     company: Independent Contractor
     intro: |
-      - Built marketplace app for Brazilian carrier, with over 2 million active users
-      - Tracking system for Brazilian truckers under extreme conditions (low to none connectivity)
-      - Healthcare App, allowing users to analyse symptoms and provide treatment using AI 
+      - Built marketplace app with <b>Java</b> for Brazilian carrier, with over 2 million active users
+      - Tracking system on <b>Android & iOS</b> for Brazilian truckers under extreme conditions (low to none connectivity)
+      - Healthcare App (<b>Android & iOS</b>), allowing users to analyse symptoms and provide treatment using AI 
       - B2C application for delivering packages over EU countries
 
 
@@ -133,7 +132,7 @@ experiences:
     intro: |
       Building mobile solutions for Brazilian and Latin America cellphone carriers. Integration with third-party APIs, web services over REST, usage of Android core APIs and payment gateways.
   
-      - Built Android applications, integrating with REST APIs, along with CI/CD to app stores
+      - Built <b>Android</b> applications, integrating with <b>REST APIs</b>, along with <b>CI/CD</b> to app stores
       - Integratred custom CMS's and third party providers, automating existing manual tasks
 
 projects:
