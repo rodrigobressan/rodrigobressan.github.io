@@ -143,39 +143,47 @@ projects:
     - title: "Ponte Italia"
       link: "https://ponteitalia.com.br"
       description: "Author, Open Source"
-      tagline: "Find information about your ancestors using Italian government birth records (Python, React, MySQL, AWS)"
+      tagline: "Find information about your ancestors using Italian government birth records"
+      tech: "Python, React, MySQL, AWS"
 
     - title: "AnkiDroid"
       link: "https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=pt_BR"
       description: "Collaborator, Open Source"
       tagline: "A semi-official port of the open source Anki spaced repetition flashcard system to Android with over 5M downloads"
+      tech: "Java, Kotlin, Android SDK"
 
     - title: "Face2Data"
       link: "http://github.com/rodrigobressan/face2data"
       description: "Author, Open Source"
-      tagline: "Retrieve information from a person based on its face(Python, React, Keras, AWS, Neural Networks)"
+      tagline: "Retrieve information from a person based on its face"
+      tech: "AWS, Python, React, Keras + TensorFlow"
 
     - title: "DigiPathos"
       link: "http://github.com/rodrigobressan/digipathos"
       description: "Author, Open Source"
-      tagline: "Retrieve plant diseases datasets from Brazilian Agricultural website through CLI or APIs (Python)"
+      tagline: "Retrieve plant diseases datasets from Brazilian Agricultural website through CLI or APIs"
+      tech: "Python, Web Scrapping"
 
     - title: "PADify"
       link: "https://github.com/rodrigobressan/PADify"
       description: "Author, Open Source"
-      tagline: " Identify forged facial biometric samples with Neural Networks (Python, Keras, TensorFlow)"
+      tagline: " Identify forged facial biometric samples with Neural Networks"
+      tech: "Python, Keras, TensorFlow"
 
     - title: "Vivo +Apps"
       link: "https://play.google.com/store/apps/details?id=com.movile.android.appsvivo"
       tagline: "App Marketplace for Brazilian telephony carrier (Vivo). Over 5 million unique installs."
+      tech: "Android SDK, Java, Kotlin"
 
     - title: "Bringr"
       link: "https://vimeo.com/187623068"
       tagline: "Uber-similar application to allow users to send and receive packages all over Europe"
+      tech: "Android SDK, Java, Kotlin, Stripe"
 
     - title: "Saúde a Qualquer Hora"
       link: "https://play.google.com/store/apps/details?id=br.com.saudeaqualquerhora"
       tagline: "Health-related app where users can communicate with doctors directly using Firebase as backend."
+      tech: "Java, Kotlin"
 
     - title: "News Luciana Gimenez"
       link: ""
@@ -241,13 +249,13 @@ skills:
 
   proficient:
     - name: Backend
-      keywords: Go, Python (Django), Java (Spring), NodeJS, Databases (SQL and NoSQL)
+      keywords: Go, Python (Django), Java (Spring), Node, Databases (SQL, NoSQL)
 
     - name: Front-end
-      keywords: React, Vue, HTML, CSS, Javascript, Typescript
+      keywords: React, Vue, Angular, HTML, CSS, Javascript, Typescript
 
     - name: Infrastucture
-      keywords: Amazon Web Services (AWS), Terraform, K8S, Docker
+      keywords: AWS, GCP, Terraform, K8S, Docker, CI/CD, ELK
 
     - name: Others
       keywords: Mobile Development (Android & iOS), Data Visualization, Automation
