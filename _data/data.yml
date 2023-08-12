@@ -50,21 +50,18 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    I am a Full Stack Engineer, with over 9 years of professional experience on extensively building <b>reliable, robust and fault-tolerant systems</b>. In the past 3 years, I have been working on <b>mission critical systems (over 99% of uptime) on the field of biomedics and healthcare</b>.
+    Hello, I'm Rodrigo Bressan, a Senior Software Engineer with a strong focus on building high-quality systems. Throughout my career, I have prioritized delivering top-notch solutions by emphasizing meticulous system design, coding practices, and testing methodologies. I firmly believe that quality is the foundation of successful software development.
 
-    My skills cover the full spectrum of the cloud development, from the following areas:
-    - <b>Front-end</b>: <i>React, Angular and Vue frameworks. HTML, CSS and JS/Typescript</i>
-    - <b>Backend</b>: <i>Go, Python (Django), Java (Spring), NodeJS and Databases (SQL and NoSQL)</i>
-    - <b>Infrastructure</b>: <i>AWS, GCP, Terraform, CI/CD, Kubernetes, Argo Workflows</i>
-    - <b>ETL and Data Processing</b>: <i>AWS (Glue, Lambdas, S3, Firehose), NumPy and Pandas</i>
-    
-    I have experience on <b>coordinating efforts between technical and non-technical people</b>, while also being able to understand and balance out product needs with technical requirements.
+    My skills cover the full spectrum of the Cloud development:
 
-    Furthermore, I am <b>highly enthusiastic about learning new technologies and exploring new ways to solve problems</b> - but I for sure know that we should avoid reinventing the wheel, when possible.
+    - <b>Backend</b>: Go, Python (Django), Java (Spring) and Databases (SQL and NoSQL)
+    - <b>Front-end</b>: React and Angular
+    - <b>Infrastructure</b>: AWS, Terraform, Kubernetes, Argo CI/CD
+    - <b>ETL and Data Processing</b>: AWS (Glue, Lambdas, S3, Firehose), NumPy and Pandas
 
-    My work is always focused on building <b>highly testable code</b>, to which I believe brings not only an additional layer of security against bugs/defects, but also brings confidence to the team I am working with.
+    Lately, I have also been focusing on mentoring people around me. I take great joy in guiding and empowering junior engineers, helping them grow both technically and professionally. By fostering a supportive environment and advocating for best practices, I enable individuals to reach their full potential. Communication and empathy are key aspects of my mentoring approach, allowing me to connect with team members and provide the guidance they need.
 
-    On my spare time, I write on my personal blog and Medium, and I have a few active Open Source projects, which you can see on my <a href="github.com/rodrigobressan">Github</a>
+    If you are interested in a collaboration, feel free to drop me a message - I am always looking for new opportunities to collaborate
 education:
   - degree: Minor on Data Science and Artificial Intelligence
     university: <a href="https://cmp.ifsp.edu.br/" target="_blank">Federal Institute of Education, Science and Technology of São Paulo</a>
@@ -170,41 +167,6 @@ projects:
       tagline: " Identify forged facial biometric samples with Neural Networks"
       tech: "Python, Keras, TensorFlow"
 
-    - title: "Vivo +Apps"
-      link: "https://play.google.com/store/apps/details?id=com.movile.android.appsvivo"
-      tagline: "App Marketplace for Brazilian telephony carrier (Vivo). Over 5 million unique installs."
-      tech: "Android SDK, Java, Kotlin"
-
-    - title: "Bringr"
-      link: "https://vimeo.com/187623068"
-      tagline: "Uber-similar application to allow users to send and receive packages all over Europe"
-      tech: "Android SDK, Java, Kotlin, Stripe"
-
-    - title: "Saúde a Qualquer Hora"
-      link: "https://play.google.com/store/apps/details?id=br.com.saudeaqualquerhora"
-      tagline: "Health-related app where users can communicate with doctors directly using Firebase as backend."
-      tech: "Java, Kotlin"
-
-    - title: "News Luciana Gimenez"
-      link: ""
-      tagline: "Magazine like app for Brazilian actress Luciana Gimenez"
-
-    - title: "MinutoMobi (TIM)"
-      link: ""
-      tagline: "Newsreader for Brazilian carrier (TIM) consuming articles from Reuters API"
-
-    - title: "The Movie Database Clean Architecture"
-      description: "Author, Open Source"
-      link: "https://github.com/rodrigobressan/android_tmdb_clean_architecture"
-      tagline: "Showcase project using several Android libraries with Clean Architecture concepts"
-
-    - title: "GitHub MVVM"
-      link: "https://github.com/rodrigobressan/GitHubMVVM"
-      tagline: "Simple project to showcase the usage of GitHub API with a MVVM (Model View ViewModel) Architecture"
-
-    - title: "Nasa APOD (RN)"
-      link: "https://github.com/rodrigobressan/react_native_apod"
-      tagline: "Small React Native to display a list of astronomical pictures from the NASA Astronomy Picture of the Day API"
 
 publications:
   title: Academic Research and Publications
