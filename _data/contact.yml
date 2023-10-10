@@ -1,0 +1,24 @@
+#  The contact options.
+
+-
+  type: github
+  icon: 'fab fa-github'
+  url: 'https://github.com/rodrigobressan'
+-
+   type: linkedin
+   icon: 'fab fa-linkedin'
+   url:  'https://www.linkedin.com/in/rbressan/'
+
+-
+  type: rss
+  icon: 'fas fa-rss'
+  noblank: true
+
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: true            # open link in current tab
+
+# Uncomment and complete the url below to enable more contact options
+#   type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage
