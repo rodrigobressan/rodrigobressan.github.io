@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navigating HIPAA compliance with Lynis on the Cloud"
+title: "Navigating HIPAA compliance on the Cloud with Lynis"
 date: 2023-02-15 09:00:00 -0500
 categories: [devops, cloud, security, compliance, hipaa, regulatory]
 tags: [devops, cloud, security, compliance, hipaa, regulatory]
@@ -9,13 +9,15 @@ image:
 ---
 
 
-Healthcare organizations face a unique challenge when it comes to securing patient data in the the cloud. Ensuring HIPAA (Health Insurance Portability and Accountability Act) compliance is a top priority when it comes to healthcare. To make this process more approachable, we're going to explore how to use Lynis, a fantastic open-source security auditing tool, to perform a HIPAA compliance audit in your AWS healthcare environment.
+Healthcare organizations face a unique challenge when it comes to securing patient data in the the cloud. Ensuring HIPAA (Health Insurance Portability and Accountability Act) compliance is a top priority when it comes to healthcare.
+
+To make this process more approachable, we're going to explore how to use Lynis, a fantastic open-source security auditing tool, to perform a HIPAA compliance audit in your AWS healthcare environment.
 
 ### What is Lynis?
 
 [Lynis](https://github.com/CISOfy/lynis) is a user-friendly auditing tool initially created for Linux systems. While it may not be an AWS or HIPAA-specific tool, it's incredibly versatile and can be adapted to help you assess your cloud resources to match regulatory standards.
 
-### Setting up Lynis on an AWS EC2 Instance
+### Setting up Lynis
 
 To start your HIPAA compliance audit with Lynis, you'll first need to have an AWS EC2 instance (or GCE if for example if you are using Google Cloud Provider). Once your instance is good to go, SSH into it and follow these steps:
 

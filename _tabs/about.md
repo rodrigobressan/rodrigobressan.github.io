@@ -3,22 +3,65 @@ icon: fas fa-info-circle
 order: 2
 ---
 
+<b>If you are interested only on my work, click [here](#work) to jump to it - otherwise, keep reading!</b>
+
 I'm Rodrigo Bressan, born and raised in Brazil, and living in Italy since 2019. On my free time, I am usually:
 
-- Climbing
-- Surfing, Windsurfing or Canoeing
-- Practicing some language on Duolingo 🦉
-- Baking some bread/focaccia 🍞
-- Working on some Open Source/side project (see <a href="/projects">here</a>)
-- Improving my VW Camper Van (lastly upgrading the solar powered grid) 🚐 - below a picture of it:
 
-<img src="/assets/img/about/binho.jpg"/>
-_This is <i>Binho</i>, my VW T4 Campervan on top of [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna), one of the tallest active volcanoes in Europe_
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-3">
+      <img src="/assets/img/about/windsurf.jpeg"/>
+    </div>
+     <div class="col-9">
+      Windsurfing/surfing/canoeing (lately on Costa Smeralda, Sardinia)
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row align-items-center">
+   <div class="col-3">
+      <img src="/assets/img/about/binho.png"/>
+    </div>
+     <div class="col-9">
+      Improving my VW Camper Van (lately the solar-powered grid) 🚐 
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+   <div class="col-3">
+      <img src="/assets/img/about/baking.jpeg"/>
+    </div>
+     <div class="col-9">
+      Baking some bread/focaccia/panzerotto 🍞
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row align-items-center">
+   <div class="col-3">
+      <img src="/assets/img/about/climbing.png"/>
+    </div>
+     <div class="col-9">
+      Climbing 🧗‍
+    </div>
+  </div>
+</div>
+
+<br/>
+And when I am not doing any of the above, I am probably working on some [side projects](/projects)
 
 
 # Work
 
-I have been working with software engineering since 2015, and in the past 4 years, I have been focusing on building health tech products. My interest in healthcare grew when I started working in a project sponsored by the <b>[Bill and Mellinda Gates Foundation](https://www.gatesfoundation.org/){:target="_blank"}</b>, where I had the opportunity to work on the development of a platform to identify and track the main factors behind child mortality. If you are curious about the project, click [here].
+I have been working with software engineering since 2015, and in the past 4 years, I have been focusing on building health tech products. My interest in healthcare grew when I started working in a project sponsored by the <b>[Bill and Mellinda Gates Foundation](https://www.gatesfoundation.org/){:target="_blank"}</b>, where I had the opportunity to work on the development of a platform to identify and track the main factors behind child mortality. If you are curious about the project, click [here](/projects/#research--publications).
 
 Since then, I have been working on several projects in the health tech space, some examples being:
 
