@@ -13,7 +13,7 @@ I'm Rodrigo Bressan, born and raised in Brazil, and living in Italy since 2019. 
 - Improving my VW Camper Van (lastly upgrading the solar powered grid) 🚐 - below a picture of it:
 
 <img src="/assets/img/about/binho.jpg"/>
-_This is <i>Binho</i>, my VW T4 Campervan_
+_This is <i>Binho</i>, my VW T4 Campervan on top of [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna), one of the tallest active volcanoes in Europe_
 
 
 # Work
