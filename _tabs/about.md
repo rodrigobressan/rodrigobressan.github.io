@@ -7,56 +7,16 @@ order: 2
 
 I'm Rodrigo Bressan, born and raised in Brazil, and living in Italy since 2019. On my free time, I am usually:
 
+- Doing outdoor activities: rock climbing/bouldering, windsurfing, cycling
+- Practicing a new language on Duolingo
+- Baking some focaccia
+- Working on my VW T4 Campervan: recently re-designing the solar-powered grid
 
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-3">
-      <img src="/assets/img/about/windsurf.jpeg"/>
-    </div>
-     <div class="col-9">
-      Windsurfing/surfing/canoeing (lately on Costa Smeralda, Sardinia)
-    </div>
-  </div>
-</div>
-
-
-
-<div class="container">
-  <div class="row align-items-center">
-   <div class="col-3">
-      <img src="/assets/img/about/binho.png"/>
-    </div>
-     <div class="col-9">
-      Improving my VW Camper Van (lately the solar-powered grid) 🚐 
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row align-items-center">
-   <div class="col-3">
-      <img src="/assets/img/about/baking.jpeg"/>
-    </div>
-     <div class="col-9">
-      Baking some bread/focaccia/panzerotto 🍞
-    </div>
-  </div>
-</div>
-
-
-<div class="container">
-  <div class="row align-items-center">
-   <div class="col-3">
-      <img src="/assets/img/about/climbing.png"/>
-    </div>
-     <div class="col-9">
-      Climbing 🧗‍
-    </div>
-  </div>
-</div>
-
-<br/>
 And when I am not doing any of the above, I am probably working on some [side projects](/projects)
+
+
+<img src="/assets/img/about/binho.jpg"/>_My VW T4 (named Binho) on top of [Mount Etna](https://en.wikipedia.org/wiki/Mount_Etna), one of the tallest active volcanoes in Europe_
+
 
 
 # Work

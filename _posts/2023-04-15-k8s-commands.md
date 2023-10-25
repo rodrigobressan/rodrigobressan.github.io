@@ -5,7 +5,7 @@ date: 2023-04-15 09:00:00 -0500
 categories: [devops]
 tags: [devops, cloud, sysadmin, k8s]
 image:
-  path: /assets/img/posts/06-kopf/happy_sailors.png
+  path: /assets/img/posts/07-k8s-commands/helm.jpeg
 ---
 
 `kubectl` is the Swiss Army knife of Kubernetes, providing several commands to interact with your K8s cluster. In this blog post, we'll explore a range of `kubectl` commands for various day-to-day operations

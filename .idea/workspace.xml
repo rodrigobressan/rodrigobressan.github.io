@@ -4,9 +4,11 @@
     <list default="true" id="a90d4549-188d-433b-9712-044d855de4dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-02-15-lynis-audit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-15-lynis-audit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-03-15-kopf-k8s-operator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-15-kopf-k8s-operator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-15-k8s-commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-15-k8s-commands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-05-15-nlp-basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-05-15-nlp-basics.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_tabs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tabs/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tabs/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tabs/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/binho.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/binho.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.22.12" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.20.55" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/about" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -85,11 +87,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/about" />
+      <recent name="$PROJECT_DIR$/assets/img/posts/08-nlp-basics" />
+      <recent name="$PROJECT_DIR$/assets/img/posts/07-k8s-commands" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/posts/06-kopf" />
-      <recent name="$PROJECT_DIR$/assets/img/about" />
-      <recent name="$PROJECT_DIR$/assets/img/posts/05-compliance-lynis" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/old" />

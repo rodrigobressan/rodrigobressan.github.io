@@ -5,7 +5,7 @@ date: 2023-04-15 09:00:00 -0500
 categories: [data science, nlp]
 tags: [data science, nlp, python]
 image:
-  path: /assets/img/posts/06-kopf/happy_sailors.png
+  path: /assets/img/posts/08-nlp-basics/banner.png
 ---
 
 Natural Language Processing (NLP) is a fascinating field that empowers computers to understand, interpret, and generate human language. Python, with its rich ecosystem of libraries and tools, is a fantastic choice for NLP tasks. In this blog post, we'll explore essential techniques for NLP in Python, including data cleaning, stemming, preprocessing, and extracting meaning from text data. These techniques will help you unlock the potential of NLP for various applications, from sentiment analysis to chatbots and language translation.
@@ -14,13 +14,10 @@ Natural Language Processing (NLP) is a fascinating field that empowers computers
 
 Before you can derive meaningful insights from text data, you need to ensure your data is clean and free from noise. Common data cleaning techniques include:
 
-- **Removing HTML tags:** If you're dealing with web data, use libraries like BeautifulSoup to strip out HTML tags.
-
-- **Handling special characters:** Remove or replace special characters, such as punctuation marks, to simplify text.
-
-- **Lowercasing:** Convert all text to lowercase to ensure consistency.
-
-- **Dealing with numbers:** Decide whether to keep or remove numbers, depending on your specific task.
+- **Removing HTML tags:** If you're dealing with web data, use libraries like BeautifulSoup to strip out HTML tags
+- **Handling special characters:** Remove or replace special characters, such as punctuation marks
+- **Lowercasing:** Convert all text to lowercase to ensure consistency
+- **Dealing with numbers:** Decide whether to keep or remove numbers (depends on use-case)
 
 
 ```python
@@ -105,7 +102,7 @@ Filtered Words: ['example', 'sentence', 'stopwords', '.']
 
 ### 4. Stemming and Lemmatization
 
-Stemming and lemmatization are techniques to reduce words to their base or root form. Stemming is a more aggressive approach, while lemmatization considers the context of words for transformation. Libraries like NLTK and spaCy provide tools for both stemming and lemmatization.
+Stemming and lemmatization are techniques to reduce words to their base or root form. Stemming is a more aggressive approach, while lemmatization considers the context of words for transformation.
 
 ```python
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -247,30 +244,3 @@ print("Sentiment: ", analysis.sentiment)
 Input Text: Python is a great language!
 Sentiment: Sentiment(polarity=0.8, subjectivity=0.75)
 ```
-
-### 9. Text Summarization
-
-Text summarization techniques condense lengthy documents into shorter, coherent summaries. Extractive and abstractive summarization are the two primary approaches.
-
-
-```python
-from gensim.summarization import summarize
-
-text = "Text summarization is the process of shortening a set of text while preserving its most important information."
-
-summary = summarize(text)
-
-# Example usage
-print("Input Text: ", text)
-print("Summary: ", summary)
-```
-
-**Output**:
-```
-Input Text: Text summarization is the process of shortening a set of text while preserving its most important information.
-Summary: Text summarization is the process of shortening a set of text while preserving its most important information.
-```
-
-### Conclusion
-
-#TODO: add conclusion here

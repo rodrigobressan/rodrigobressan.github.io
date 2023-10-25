@@ -10,7 +10,7 @@ image:
 
 [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) are powerful tools for managing complex applications in Kubernetes, but they can be challenging to develop and maintain. [Here](https://github.com/cncf/tag-app-delivery/blob/main/operator-wg/whitepaper/Operator-WhitePaper_v1-0.md) you can find the white paper for the Operator pattern, if you want to know more about it.
 
-. In this blog post, we'll explore how Kopf, a Python framework designed to make building and managing Kubernetes Operators easier, that simplifies the creation of a Kubernetes Operator, by creating a basic example that deploys a Node.js application with an Nginx Ingress Controller and a database.
+In this blog post, we'll explore how Kopf, a Python framework designed to make building and managing Kubernetes Operators easier, that simplifies the creation of a Kubernetes Operator, by creating a basic example that deploys a Node.js application with an Nginx Ingress Controller.
 
 ### What is Kopf?
 

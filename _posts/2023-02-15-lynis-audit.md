@@ -9,9 +9,7 @@ image:
 ---
 
 
-Healthcare organizations face a unique challenge when it comes to securing patient data in the the cloud. Ensuring HIPAA (Health Insurance Portability and Accountability Act) compliance is a top priority when it comes to healthcare.
-
-To make this process more approachable, we're going to explore how to use Lynis, a fantastic open-source security auditing tool, to perform a HIPAA compliance audit in your AWS healthcare environment.
+Healthcare organizations face a unique challenge when it comes to securing patient data in the cloud. Ensuring [HIPAA (Health Insurance Portability and Accountability Act)](https://www.cdc.gov/phlp/publications/topic/hipaa.html) compliance is a top priority when it comes to healthcare related software. To make this process more approachable, we're going to explore how to use Lynis, a fantastic open-source security auditing tool, to perform a HIPAA compliance audit in your AWS healthcare environment.
 
 ### What is Lynis?
 
