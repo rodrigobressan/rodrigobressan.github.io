@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0  # for posts's lastmod
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf  # 1.115.3
+        uses: ruby/setup-ruby@v1  # 1.115.3
         with:
           ruby-version: 3.2.2
           bundler-cache: true
