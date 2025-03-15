@@ -1,8 +1,12 @@
 ---
 icon: fas fa-info-circle
-order: 2
+order: 0
 ---
 
+Software Engineer with expertise in healthcare, cloud architectures (AWS, GCP), and HIPAA-compliant systems.
+Experienced in working in cross-functional teams to design secure and scalable AI-driven solutions for healthcare applications.
+
+<hr/>
 <b>If you are interested only on my work, click [here](#work) to jump to it - otherwise, keep reading!</b>
 
 I'm Rodrigo Bressan, born and raised in Brazil, and living in Italy since 2019. On my free time, I am usually:

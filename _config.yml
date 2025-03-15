@@ -25,7 +25,7 @@ timezone: Europe/Rome
 
 title: Rodrigo Bressan                          # the main title
 
-tagline: Software, Data & Healthcare<br/> 🇮🇹 🇧🇷   # it will display as the sub-title
+tagline: Software & Healthcare   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  Rodrigo Bressan - Documentation and More
@@ -71,8 +71,7 @@ social:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-#theme_mode: dark
-
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
