@@ -3,8 +3,11 @@ icon: fas fa-info-circle
 order: 0
 ---
 
+
 Software Engineer with expertise in healthcare, cloud architectures (AWS, GCP), and HIPAA-compliant systems.
 Experienced in working in cross-functional teams to design secure and scalable AI-driven solutions for healthcare applications.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1066358109?h=f488e5d80f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Intro Rodrigo Bressan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <hr/>
 <b>If you are interested only on my work, click [here](#work) to jump to it - otherwise, keep reading!</b>
