@@ -21,13 +21,10 @@ Since then, I have been working on several projects in the health tech space, so
 - Working on <b>Remote Patient Monitoring</b> solutions, for both <b>Clinical Trials</b> and <b>Research purposes</b>
 
 Want to know more? <a href="http://localhost:4000/assets/pdf/resume.pdf" target="_blank">Check my resume!</a>
-## A bit about me
 
+## ... And a bit about me
 
-<hr/>
-<b>If you are interested only on my work, click [here](#work) to jump to it - otherwise, keep reading!</b>
-
-I'm Rodrigo Bressan, born and raised in Brazil - I have lived in several countries in the past years, and right now, I am based in Poland. On my free time, I am usually:
+I'm Rodrigo Bressan, born and raised in Brazil - I have lived in several countries over the past couple of years, and right now, I am based in the beautiful Poland. On my free time, I am usually:
 
 - Doing outdoor activities: rock climbing/bouldering, cycling, running
 - Learning new languages (currently Polish! 🇵🇱)
