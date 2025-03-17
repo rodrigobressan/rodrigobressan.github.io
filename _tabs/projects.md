@@ -3,6 +3,57 @@ icon: fas fa-code
 order: 3
 ---
 
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-3">
+      <img src="/assets/img/about/docanon.png"/>
+    </div>
+     <div class="col-9">
+      <h3>DocAnonymizer (<a href="https://doenizer.streamlit.app/">Live Demo</a>)</h3>
+     Automatically anonymize ePHI from medical notes, ensuring compliance with privacy regulations (e.g. HIPAA)
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-3">
+      <img src="/assets/img/about/hl7v2.png"/>
+    </div>
+     <div class="col-9">
+      <h3>HL7v2 Parser (<a href="https://hl7v2-parser.streamlit.app/">Live Demo</a>)</h3>
+     Parse Health Level 7 Version 2 (HL7v2) messages into a human-readable format using LLMs
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-3">
+      <img src="/assets/img/about/hipaa.png"/>
+    </div>
+     <div class="col-9">
+      <h3>HIPAA Analyzer (<a href="https://hipaa-analyzer.streamlit.app/">Live Demo</a>)</h3>
+     Validate compliance documents against HIPAA privacy, security, and breach rules
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-3">
+      <img src="/assets/img/about/soapy.png"/>
+    </div>
+     <div class="col-9">
+      <h3>SOAPy (<a href="https://soapy-demo.streamlit.app/">Live Demo</a>)</h3>
+      SOAPy converts unstructured medical notes (audio and text-based) into a structured SOAP format using LLM models
+    </div>
+  </div>
+</div>
+
 <div class="container">
   <div class="row align-items-center">
     <div class="col-3">
