@@ -25,7 +25,7 @@ timezone: Europe/Rome
 
 title: Rodrigo Bressan                          # the main title
 
-tagline: Software & Healthcare   # it will display as the sub-title
+tagline: Software, Healthcare and Improving People's lives   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  Rodrigo Bressan - Documentation and More
@@ -81,7 +81,7 @@ theme_mode: light
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/6449988?v=4
+avatar: /assets/img/me.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
